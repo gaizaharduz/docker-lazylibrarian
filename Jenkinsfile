@@ -18,8 +18,8 @@ pipeline {
     GITLAB_NAMESPACE=credentials('gitlab-namespace-id')
     SCARF_TOKEN=credentials('scarf_api_key')
     EXT_GIT_BRANCH = 'master'
-    EXT_GITLAB_USER = 'LazyLibrarian'
-    EXT_GITLAB_ID = '9317860'
+    EXT_GITLAB_USER = 'gaizaharduz'
+    EXT_GITLAB_ID = '44641666'
     EXT_GITLAB_PROJ = 'LazyLibrarian'
     BUILD_VERSION_ARG = 'LAZYLIBRARIAN_COMMIT'
     LS_USER = 'linuxserver'
